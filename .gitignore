@@ -4,6 +4,6 @@ __pycache__/
 *.pyo
 .DS_Store
 outputs/
-*.png
+outputs/*.png
 spa-main/
 sample_data/
