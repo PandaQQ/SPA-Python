@@ -2,7 +2,7 @@
 
 A Python implementation of **SPA (Segment-by-segment PCA-based Artifact Removal)** for EEG data, with an interactive Streamlit UI that mirrors the workflow described in the original MATLAB manual.
 
-> **Reference:** Ouyang, G., Dien, J., & Lorenz, R. (2021). Handling EEG artifacts and searching individually optimal experimental parameter in real time: a system development and demonstration. *Journal of Neural Engineering.* [[DOI]](https://doi.org/10.1088/1741-2552/ac38cc) | [Original MATLAB toolbox](https://github.com/guangouyang/SPA)
+> **Reference:** Ouyang, G., Dien, J., & Lorenz, R. (2021). Handling EEG artifacts and searching individually optimal experimental parameter in real time: a system development and demonstration. *Journal of Neural Engineering.*  [Original MATLAB toolbox](https://github.com/guangouyang/SPA)
 
 ---
 
@@ -254,4 +254,4 @@ The Python implementation is a direct port of the MATLAB source. The equivalence
 
 ## License
 
-This Python implementation follows the license of the original SPA MATLAB toolbox. See [`spa-main/`](spa-main/) for the original source and license.
+This Python implementation follows the license of the original SPA MATLAB toolbox. See [guangouyang/SPA](https://github.com/guangouyang/SPA) for the original source and license.
