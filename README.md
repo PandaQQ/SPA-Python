@@ -115,7 +115,7 @@ spa-python/
 ### 1. Clone and set up environment
 
 ```bash
-git clone https://github.com/your-username/spa-python.git
+git clone https://github.com/PandaQQ/SPA-Python.git
 cd spa-python
 
 # Create Python 3.12 virtual environment
